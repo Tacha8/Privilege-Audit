@@ -1,6 +1,4 @@
-# Privilege-Audit
-
-# Azure RBAC Privilege Audit
+# Azure Privilege Audit: RBAC Assignments, Orphaned Access & PIM
 
 ## Overview
 
